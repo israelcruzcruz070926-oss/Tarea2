@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 1 Tarea 2
+mostrar suma, resta y multiplicación*/
 #include<stdio.h>
 double num1,num2,sum,res,mul;
 int main ()
