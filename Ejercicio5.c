@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 float c,m;
 int main ()
