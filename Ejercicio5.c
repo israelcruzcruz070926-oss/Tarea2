@@ -1,4 +1,6 @@
-
+/*Israel Cruz Cruz
+ejercicio 5 Tarea 2
+Descuento */
 #include<stdio.h>
 float c,m;
 int main ()
