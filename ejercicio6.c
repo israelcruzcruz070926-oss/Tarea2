@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 6 Tarea 2
+Aumento de sueldo */
 #include<stdio.h>
 float s,t;
 int main ()
