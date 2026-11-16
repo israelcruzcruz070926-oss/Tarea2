@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Ejercicio 14 Tarea 2
+Cuantas veces se repite un numero*/
 #include <stdio.h>
 int main()
 {
