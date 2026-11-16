@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 3 Tarea 2
+Conversión de dolares (USD) a pesos mexicanos (MXN)*/
 #include<stdio.h>
 float d,p;
 int main ()
