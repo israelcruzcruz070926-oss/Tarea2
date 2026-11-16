@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 8 Tarea 2
+Divisor de otro numero */
 #include<stdio.h>
 int num1,num2,r;
 int main()
