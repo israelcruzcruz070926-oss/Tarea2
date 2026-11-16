@@ -1,6 +1,6 @@
 /*Israel Cruz Cruz
 ejercicio 2 Tarea 2
-Area y Circunferencia*/
+Area y Circunferencia */
 #include<stdio.h>
 #include<math.h>
 #define pi 3.1415926535897
