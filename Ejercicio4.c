@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 4 Tarea 2
+Calculadora de bonificación por interes */
 #include<stdio.h>
 long d,i,t;
 int main ()
