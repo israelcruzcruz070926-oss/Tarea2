@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Ejercicio 16 Tarea 2
+imprimir los primeros numeros pares*/
 #include <stdio.h>
 int main()
 {
