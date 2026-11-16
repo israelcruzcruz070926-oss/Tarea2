@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 11 Tarea 2
+suma de primeros numeros pares */
 #include<stdio.h>
 int np,s=0;
 int main()
