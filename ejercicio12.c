@@ -1,14 +1,24 @@
+/*Israel Cruz Cruz
+ejercicio 12 Tarea 2
+producto de un numero factorial */
 #include<stdio.h>
-int N=1,n,p=1;
+float N=1,n,p=1;
 int main()
 {
-    printf("ingresa un numero: ");
-    scanf("%i",&n);
-    while (N<=n)
+    printf("Ingresa un numero menor o igual a 34: ");
+    scanf("%f",&n);
+    if(n<=34)
     {
-        p=p*N;
-        N=N+1;
+        while (N<=n)
+            {
+                p=p*N;
+                N=N+1;
+            }
+        printf("El producto es: %g",p);
     }
-    printf("el producto es: %i",p);
+    else
+    {
+        printf("La cantidad es muy grande, intenta otra vez");
+    }
     return 0;
 }
