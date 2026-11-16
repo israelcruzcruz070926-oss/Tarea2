@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 7 Tarea 2
+Descuento recorrido e intancia del tren */
 #include<stdio.h>
 float t,d,r,c; //c=contador, t=ticket, d=dias, r=recorrido
 int main ()
