@@ -1,3 +1,6 @@
+/*Israel Cruz Cruz
+ejercicio 9 Tarea 2
+Tabla de multiplicar */
 #include <stdio.h>
 int main()
 {
