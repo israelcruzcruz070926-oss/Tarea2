@@ -1,23 +1,30 @@
+/*Israel Cruz Cruz
+ejercicio 10 Tarea 2
+cuantos negativos, positivos y nulos hay */
 #include<stdio.h>
-int np=0,nn=0,nu=0,c,N; //np= numero positivo, nn=numero negativo; nu=nulo
+float N;
+int c,np=0,nn=0,nu=0; //np= numero positivo, nn=numero negativo y nu=nulo
 void main()
 {
-  for(c=0;c<100;c++)
+  for(c=1;c<101;c++)
   {
-    printf("(Vuelta numero %i )Ingresa un numero: ",c);
-    scanf("%i",&N);
+    printf("(Dato %i )Ingresa un numero: ",c);
+    scanf("%f",&N);
     if (N>0)
     {
+        //printf("maluma baby\n");
         np+=1;
     }
     else
     {
         if (N<0)
         {
+            //printf("ostia\n");
             nn+=1;
         }
         else
         {
+            //printf("omg\n");
             nu+=1;
         }
 
