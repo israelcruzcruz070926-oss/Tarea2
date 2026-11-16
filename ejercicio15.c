@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Ejercicio 15 Tarea 2
+Positivos, negativos y nulos en un arreglo*/
 #include<stdio.h>
 int main ()
 {
